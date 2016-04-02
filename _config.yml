@@ -1,41 +1,40 @@
-name: tomstarbuck
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2349567969795316
+name: tomstarbuck
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.06092979
+  brandStrength: 0.420272798743099
+  lightness: 0.4797639
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5625
-  lightness: 0.3085975965950638
-  saturation: 0.06092979502864182
-  rhythmicContrast: 0.6229695838410407
-purpose: []
+  rhythmicContrast: 0.8853288
+typography_spectrum: 0.1011804
+layout_spectrum: 0.7411467
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
