@@ -1,0 +1,28 @@
+name: tomstarbuck
+favicon: null
+layout_spectrum: 0.6710066751111299
+typography_spectrum: 0.23495679697953165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.420272798743099
+  lightness: 0.3085975965950638
+  saturation: 0.06092979502864182
+  rhythmicContrast: 0.6229695838410407
+purpose: []
